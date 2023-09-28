@@ -5,7 +5,9 @@ body {
   background-color: #ffffff;
   overflow-x: hidden;
 }
-
+.navbar-nav{
+  gap:10px !important;
+}
 .layout_padding {
   padding: 90px 0;
 }
