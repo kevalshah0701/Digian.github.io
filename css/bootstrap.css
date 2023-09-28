@@ -748,7 +748,9 @@ pre code {
   -ms-flex-order: 6;
   order: 6;
 }
-
+.navbar-nav{
+  gap:10px !important;
+}
 .order-7 {
   -ms-flex-order: 7;
   order: 7;
